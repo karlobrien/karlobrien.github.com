@@ -1,69 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Karl O'Brien</title>
-   <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <!-- Bootstrap -->
-	 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-	    <!-- Custom styles for this template -->
-    <link href="css/sticky-footer.css" rel="stylesheet">
-	<link href="css/grid.css" rel="stylesheet">
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
+---
+layout: default
+---
 
-    <!-- Wrap all page content here -->
-    <div id="wrap">
+<div class="home">
 
-      <!-- Begin page content -->
-      <div class="container">
-        <div class="page-header">
-          <h1>Karl O'Brien</h1>
-		  <div class="media">
-			<a href="https://twitter.com/jumpercake" class="icon-twitter" title="My Twitter"></a>
-			<a href="https://github.com/karlobrien" class="icon-github" title="My GitHub"></a>
-			<a href="https://ie.linkedin.com/pub/karl-o-brien/6/aa5/48/" class="icon-linkedin" title="My LinkedIn"></a>
-			<a href="mailto:karlobrien@gmail.com" class="icon-comments" title="Say hello"></a>
-		  </div>
-        </div>
-        <h4>Software</h4>
-		<dl>
-			<dt>Western Blot </dt>
-			<dd>Andriod Application to calculate a Westen Blot</dd>
-			<dd>Working application is available <a href="https://play.google.com/store/apps/details?id=com.jumpercake.tab&feature=search_result#%3Ft%3DW251bGwsMSwxLDEsImNvbS5qdW1wZXJjYWtlLnRhYiJd" class="icon-android" title="Western Blot"></a></dd>
-			<dd>Code is available from <a href="https://github.com/karlobrien/COMP41150-WesternBlot" class="icon-github" title="Western Blot"></a></dd>
-			<dt>Weka Hadoop</dt>
-			<dd>Project to run weka machine learning alogithms across a Hadoop cluster <dd>Code is available from <a href="https://github.com/karlobrien/weka_hadoop" class="icon-github" title="Weka Hadoop"></a></dd>
-			<dt>Simple Classifier - <span>new!</span></dt>
-			<dd>Python code demonstrating how to apply machine learning alogorithms to a block of census data</dd>
-		
-		</dl>
-	  </div>
-    </div>
-	
-    <div id="footer">
-      <div class="container">
-        <p class="text-muted">Place sticky footer content here.</p>
-      </div>
-    </div>
+  <h1 class="page-heading">Posts</h1>
 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-	<!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
