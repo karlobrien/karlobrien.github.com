@@ -1,7 +1,7 @@
 # Site settings
 title: Karl O'Brien
 email: karlobrien@gmail.com
-description: Simple outline.
+description: Descriptions and links to software projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://karlobrien.ie" # the base hostname & protocol for your site
 twitter_username: jumpercake
