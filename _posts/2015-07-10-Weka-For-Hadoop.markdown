@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weka and Hadoop"
-date:   2015-07-11
+date:   2015-07-12
 categories: Hadoop software machine-learning
 ---
 
