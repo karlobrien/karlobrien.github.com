@@ -5,7 +5,8 @@ date:   2015-07-11
 categories: android software
 ---
 
-Android application for calculating Western Blot
+Android application for calculating Western Blot.
+
 Many scientists make their own acrylamide gels- it saves money and you can make whatever percentage you require. This application will allow you to put in the % gel you want and the volumes of the ingredients will change accordingly. This app is made by scientists for scientists and the ingredients/calculation have been tested on countless real-life experiments on the lab bench.
 
 Download application @ [Play Store][PlayStore].
