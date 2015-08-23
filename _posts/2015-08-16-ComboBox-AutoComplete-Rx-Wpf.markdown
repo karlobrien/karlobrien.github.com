@@ -12,8 +12,6 @@ A sample demo showing various methods of handling tasks in a wpf application.
 - Load list from sync method converted to async (again delay is simulated)
 - Thread number is displayed in console to emphasize the fact that the method are running on different threads
 
-A sample demo application to show an auto-completing combobox in wpf using reactive extensions to populate the control.
-
 Code available @ [Demo Tasks][Tasks].
 
 [Tasks]: https://github.com/karlobrien/LongRunningTasksForWpf
