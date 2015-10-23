@@ -15,6 +15,6 @@ Working list of items that I need to read up on.
 * Data Structures
 * How unicode works
 * Different kinds of garbage collection
-* What a Turing Machine is?
-* How humans interact in software projects (Mytical Man Month)
-* Git Basics
+* What a Turing Machine is? (In Detail)
+* How humans interact in software projects (Read Mytical Man Month)
+* Git Flow
