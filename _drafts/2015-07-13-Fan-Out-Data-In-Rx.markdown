@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Fan-Out-Data-In-Rx"
-date:   2015-07-13
-categories: software net rx reactive
+title:  "Electron application with basic navigation"
+date:   2015-10-23
+categories: software node.js electron javascript
 ---
 
 Draft
