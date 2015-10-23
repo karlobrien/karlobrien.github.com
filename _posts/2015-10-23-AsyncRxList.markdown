@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ".Net Async/ Wait & Reactive Links"
+title:  ".Net Async/ Wait & Rx Links"
 date:   2015-10-23
 categories: software learning rx async
 ---
