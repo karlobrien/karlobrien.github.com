@@ -12,7 +12,7 @@ List of Technical Books on the reading list
   * [Async Javascript](https://pragprog.com/book/tbajs/async-javascript)
   * [Rx with RxJs](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
 * Concurrency
-  * [Prog Git2](https://progit.org/)
+  * [Pro Git2](https://progit.org/)
   * [Concurrency Models](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
 * Database Design
   * [7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
