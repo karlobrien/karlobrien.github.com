@@ -4,7 +4,7 @@ title:  "Reading List"
 date:   2016-01-04
 categories: software reading learning
 ---
-List of Technical Books on the reading list
+Technical Reading List for 2016
 
 * Javascript
   * [Javascript for C# Developers](https://leanpub.com/javascriptmancy-mastering-arcane-art-of-writing-awesome-javascript-for-csharp-developers)
