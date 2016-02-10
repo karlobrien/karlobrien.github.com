@@ -17,7 +17,7 @@ Technical Reading List for 2016
 * Database Design
   * [7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
 * Algorithms
-  * [Groking Alogorithms](https://www.manning.com/books/grokking-algorithms)
+  * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
 * Functional Programming
   * [Eloquent Javascript](http://eloquentjavascript.net/)
   * [Functional Javascript](http://shop.oreilly.com/product/0636920028857.do)
@@ -25,3 +25,5 @@ Technical Reading List for 2016
 * Design  
   * [Simple Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1ECAXZ0S2S197DWZ0SN6)
   * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1DP3CMW52R9QBRF02TKH)
+* Reactive
+  * [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
