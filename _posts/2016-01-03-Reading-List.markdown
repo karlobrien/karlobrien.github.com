@@ -15,7 +15,7 @@ Technical Reading List for 2016
   * [Pro Git2](https://progit.org/)
   * [Concurrency Models](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
 * Database Design
-  * [7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
+  * <del>[7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)</del>
 * Algorithms
   * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
 * Functional Programming
