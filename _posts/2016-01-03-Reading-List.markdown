@@ -25,5 +25,6 @@ Technical Reading List for 2016
 * Design  
   * [Simple Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1ECAXZ0S2S197DWZ0SN6)
   * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1DP3CMW52R9QBRF02TKH)
+  * [Zero Bugs Program Faster](http://www.amazon.com/Zero-Bugs-Program-Faster-Thompson/dp/0996193308)
 * Reactive
   * [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
