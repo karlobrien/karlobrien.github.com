@@ -16,7 +16,7 @@ Technical Reading List for 2016
   * <del>[Concurrency Models](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)</del>
 * Database Design
   * <del>[7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)</del>
-  * [Oracle 12c Sql](http://www.amazon.com/Oracle-Database-12c-Jason-Price/dp/0071799354)
+  * <del>[Oracle 12c Sql](http://www.amazon.com/Oracle-Database-12c-Jason-Price/dp/0071799354)</del>
 * Algorithms
   * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
 * Functional Programming
