@@ -17,6 +17,7 @@ Technical Reading List for 2016
 * Database Design
   * <del>[7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)</del>
   * <del>[Oracle 12c Sql](http://www.amazon.com/Oracle-Database-12c-Jason-Price/dp/0071799354)</del>
+  * [Design Data-Intensive Applications](http://dataintensive.net)
 * Algorithms
   * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
 * Functional Programming
