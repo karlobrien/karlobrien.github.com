@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Platform Stack"
+date:   2016-06-25
+categories: software nodejs javascript html5
+---
+
+# Technology Platforms:
+
+* Client Application
+  * HTML5.
+  * Electron.
+  * JavaScript/ NodeJs.
+  * Socket.io.
+
+* Webpage/ Mobile
+  * HTML5.
+  * Javascript.
+  * Socket.io.
+
+* Back End
+  * EventStore.
+  * Generate backend data into EventStore.
+  * Python for machine learning analysis.
+  * Do I look at azure, aws or kubernites.
+  * What language to use on backend?
+
+
+# Desired Learnings
+
+ * Want to use a common code source for front end for both client application and Webpage.
+ * Pull RealTime stream from EventStore.
+ * How to populate EventStore from a backend process.
+ * Want to have a real time application.
+
+# Application Ideas
+
+* Connecting to twitter for sentiment analysis.
+  * Maybe allow the user to put in keywords and get back results.
+* Accelerometer with magic button.
+* Simple Application to navigate through screens.
+* Connect to Dublin Bike data and display to the user.
+* Find specific sports scores and reports from various sources and display in central place. Maybe able to rank/ rate the sources?
+* Apply sentiment analysis against sports events.
+* Search for an event and find relevant articles from good authors.
