@@ -25,7 +25,6 @@ categories: software nodejs javascript html5
   * Do I look at azure, aws or kubernites.
   * What language to use on backend?
 
-
 # Desired Learnings
 
  * Want to use a common code source for front end for both client application and Webpage.
@@ -43,3 +42,5 @@ categories: software nodejs javascript html5
 * Find specific sports scores and reports from various sources and display in central place. Maybe able to rank/ rate the sources?
 * Apply sentiment analysis against sports events.
 * Search for an event and find relevant articles from good authors.
+* Build a fictional real time stock data ticker.
+* Build a test harness for publishing data to the client.
