@@ -8,8 +8,8 @@ categories: software nodejs javascript html5
 # Items that I need to know
 * HTML5.
 * CSS.
- * Simple page layout
- * Responsive web design.
+  * Simple page layout
+  * Responsive web design.
 * Python for machine learning.
 * F# for machine learning.
 * Single Page Application.
