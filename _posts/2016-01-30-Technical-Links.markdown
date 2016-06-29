@@ -7,4 +7,3 @@ categories: software reading learning
 Useful Technical Links
 
 * [Effectiv Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
-* [Ix and async/await](https://weblogs.asp.net/dixin/understanding-linq-to-objects-7-interactive-extensions-ix)

@@ -20,6 +20,7 @@ Reactive Extensions and async/ await resource list.
   * [Series of Rx posts](http://blog.webrunners.de/series/reactive-extensions/)
   * [Reactive Property](https://github.com/runceel/ReactiveProperty)
   * [Rx in Practice](http://futurice.com/blog/reactive-c-number-in-practice)
+  * [Ix and async/await](https://weblogs.asp.net/dixin/understanding-linq-to-objects-7-interactive-extensions-ix)
 * Rx and MVVM
   * [Combining Rx and MVVM](ttp://www.codeproject.com/Articles/781006/Combining-RX-and-MVVM)
   * [Microsoft Rx and mvvm](https://code.msdn.microsoft.com/MVVM-pattern-and-Reactive-2f71560a)
