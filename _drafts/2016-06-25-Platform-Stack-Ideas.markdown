@@ -5,7 +5,7 @@ date:   2016-06-25
 categories: software nodejs javascript html5
 ---
 
-# Technology Platforms:
+Technology Platforms
 
 * Client Application
   * HTML5.
