@@ -5,6 +5,4 @@ date:   2016-01-30
 categories: software f#
 ---
 
-An F# Console application
-
 [Yahoo Finance Console](https://github.com/karlobrien/YahooFinanceConsole)
