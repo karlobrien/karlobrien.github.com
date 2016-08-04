@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Using F# for Yahoo finance data in a console application"
-date:   2016-01-30
+date:   2016-08-04
 categories: software f#
 ---
 
-Overview of building the application.
+Using Code, Paket and FAKE.
 
 Code is available @ [Yahoo Finance Console](https://github.com/karlobrien/YahooFinanceConsole)
 
