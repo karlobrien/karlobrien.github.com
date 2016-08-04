@@ -5,7 +5,9 @@ date:   2016-01-30
 categories: software f#
 ---
 
-[Yahoo Finance Console](https://github.com/karlobrien/YahooFinanceConsole)
+Overview of building the application.
+
+Code is available @ [Yahoo Finance Console](https://github.com/karlobrien/YahooFinanceConsole)
 
 * Setup using Visual Studio Code.
 * Using Paket.
