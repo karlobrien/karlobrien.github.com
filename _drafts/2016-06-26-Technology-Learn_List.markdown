@@ -44,3 +44,62 @@ Floating-point number
 2.0
 0x402E000000000000
 15.0
+
+Big O Notation
+Log N - An algorithm with O(log N) performance typically divides the number of items it must consider by a fixed fraction at every step.
+This algorithm is typical of many algorithms that have O(log N) performance. At each step, it divides roughly in half the number of items it must consider.
+Full Binary tree - O(log n) steps
+
+Node: FindItem(Integer: target_value)
+    Node: test_node = <root of tree>
+
+    Do Forever
+      // If we fell off the tree. The value isn't present.
+      If (test_node == null) Return null
+
+      If (target_value == test_node.Value) Then
+          // test_node holds the target value. This is the node we want.
+          Return test_node
+      Else If (target_value < test_node.Value) Then
+          // Move to the left child.
+          test_node = test_node.LeftChild
+      Else
+          // Move to the right child.
+          test_node = test_node.RightChild
+      End If
+    End Do
+End FindItem
+
+The logarithmic function log(N) grows relatively slowly as N increases, so algorithms with O(log N) performance generally are fast enough to be useful.
+
+See Essential Algorithms book on why the base value does not matter.
+
+O(N) - The function N grows more quickly than log(N) and sqrt(N) but still not too quickly, so most algorithms that have O(N) performance work quite well in practice.
+
+O(N Log N) - Suppose an algorithm loops over all the items in its problem set and then, for each loop, performs some sort of O(log N) calculation on that item. In that case, the algorithm has O(N × log N) or O(N log N) performance.
+
+For example, suppose you have built a sorted tree containing N items as described earlier. You also have an array of N values and you want to know which values in the array are also in the tree.
+
+One approach would be to loop through the values in the array. For each value, you could use the method described earlier to search the tree for that value. The algorithm examines N items and for each it performs log(N) steps so the total runtime is O(N log N).
+
+Many sorting algorithms that work by comparing items have an O(N log N) runtime. In fact, it can be proven that any algorithm that sorts by comparing items must use at least O(N log N) steps, so this is the best you can do, at least in Big O notation. Some algorithms are still faster than others because of the constants that Big O notation ignores.
+
+O(N2) - An algorithm that loops over all its inputs and then for each input loops over the inputs again has O(N2) performance.
+
+O(2N) - Exponential functions such as 2N grow extremely quickly, so they are practical for only small problems. Typically algorithms with these runtimes look for optimal selection of the inputs.
+Knapsack problem - This may seem like an easy problem, but the only known algorithms for finding the best possible solution essentially require you to examine every possible combination of items.
+use heuristics to get best approximate result.
+
+O(N!) - Traveling salesman
+
+
+To find GCD, use euclid's algorithm.
+Integer: GCD(Integer: A, Integer: B)
+    While (B != 0)
+        Integer: remainder = A Mod B
+        // GCD(A, B) = GCD(B, remainder)
+        A = B
+        B = remainder
+    End While
+    Return A
+End GCD

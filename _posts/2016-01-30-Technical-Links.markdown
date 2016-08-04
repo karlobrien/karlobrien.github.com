@@ -6,4 +6,4 @@ categories: software reading learning
 ---
 Useful Technical Links
 
-* [Effectiv Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
+* [Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
