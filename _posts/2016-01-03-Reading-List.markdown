@@ -20,12 +20,13 @@ Technical Reading List for 2016
   * [Design Data-Intensive Applications](http://dataintensive.net)
 * Algorithms
   * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
+  * [Essential Algorithms](https://www.amazon.co.uk/Essential-Algorithms-Practical-Approach-Computer/dp/1118612108/ref=sr_1_1?ie=UTF8&qid=1469597035&sr=8-1&keywords=essential+algorithms) - **Currently Reading**
 * Functional Programming
   * [Eloquent Javascript](http://eloquentjavascript.net/)
   * [Functional Javascript](http://shop.oreilly.com/product/0636920028857.do)
   * [Groking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
   * [The Book of F#](https://www.nostarch.com/fsharp)
-  * [F# for Quantitive Finance](https://www.packtpub.com/big-data-and-business-intelligence/f-quantitative-finance) - **Currently Reading**
+  * <del> [F# for Quantitive Finance](https://www.packtpub.com/big-data-and-business-intelligence/f-quantitative-finance) </del>
 * Design
   * [Simple Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1ECAXZ0S2S197DWZ0SN6)
   * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=1DP3CMW52R9QBRF02TKH)
