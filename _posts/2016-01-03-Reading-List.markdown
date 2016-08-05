@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading List"
-date:   2016-01-04
+date:   2016-08-05
 categories: software reading learning
 ---
 Technical Reading List for 2016
