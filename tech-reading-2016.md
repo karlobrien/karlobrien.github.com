@@ -3,6 +3,8 @@ layout: page
 title: Tech Reading List 2016
 ---
 
+List of Technical Books broken down by topic for reading in 2016.
+
 * Javascript
   * [Javascript for C# Developers](https://leanpub.com/javascriptmancy-mastering-arcane-art-of-writing-awesome-javascript-for-csharp-developers)
   * [Node.js - The right way](https://pragprog.com/book/jwnode/node-js-the-right-way)
