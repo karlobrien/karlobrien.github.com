@@ -18,5 +18,8 @@ author:
   url:               https://karlobrien.github.io
   email:             karlobrien@gmail.com
 
+github:
+  repo:              https://github.com/karlobrien
+
 # Custom vars
 version:             1.0.0
