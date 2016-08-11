@@ -1,12 +1,23 @@
-# Site settings
-title: Karl O'Brien
-email: karlobrien@gmail.com
-description: Descriptions and links to software projects.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://karlobrien.ie" # the base hostname & protocol for your site
-twitter_username: jumpercake
-github_username:  karlobrien
-linkedin_username: karl-o-brien/6/aa5/48
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-# Build settings
-markdown: kramdown
+# Setup
+title:               Karlobrien
+tagline:             ''
+description:         'Overview of personal projects, technical lists and useful technology links'
+url:                 http://karlobrien.github.io/
+baseurl:             ""
+paginate:            5
+excerpt_separator:   <!--more-->
+
+# About/contact
+author:
+  name:              Karl O Brien
+  url:               https://karlobrien.github.io
+  email:             karlobrien@gmail.com
+
+# Custom vars
+version:             1.0.0

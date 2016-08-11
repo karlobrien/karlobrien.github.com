@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Tech For Learning"
-date:   2016-06-25
-categories: software nodejs javascript html5
+title:  Tech For Learning
+tags:
+- node
+- javascript
+- html5
 ---
 Items that I need to know
 

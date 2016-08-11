@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Long Running Tasks Rx Wpf"
-date:   2015-08-16
-categories: software net rx reactive
+title:  Long Running Tasks Rx Wpf
+tags:
+- net
+- rx
+- reactive
 ---
 
 A sample demo showing various methods of handling tasks in a wpf application.

@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Dynamic Data And Dublin Bikes Api"
-date:   2015-08-03
-categories: software net rx reactive
+tags:
+- net
+- rx
+- reactive
+- MaterialDesign
 ---
 
 Combination of [Dynamic Data][DynamicData] and [Material Design][MaterialDesign] displaying Dublin Bike Data

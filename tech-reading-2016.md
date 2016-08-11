@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "Reading List"
-date:   2016-08-05
-categories: software reading learning
+layout: page
+title: Tech Reading List 2016
 ---
-Technical Reading List for 2016
 
 * Javascript
   * [Javascript for C# Developers](https://leanpub.com/javascriptmancy-mastering-arcane-art-of-writing-awesome-javascript-for-csharp-developers)

@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  ".Net Async/ Await & Rx Links"
-date:   2015-10-23
-categories: software learning rx async
+tags:
+- rx
+- async
 ---
 
 Reactive Extensions and async/ await resource list.
+
+<!--more-->
 
 * Async/ Await
   * [Stephen Cleary - Async/ Await](http://blog.stephencleary.com/2012/02/async-and-await.html)

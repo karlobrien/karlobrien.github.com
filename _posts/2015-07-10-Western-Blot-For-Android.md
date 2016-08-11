@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Western Blot For Android"
-date:   2015-07-11
-categories: android software
+tags:
+- android
+- mobile
 ---
 
 Android application for calculating Western Blot.

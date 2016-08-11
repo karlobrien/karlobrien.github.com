@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Platform Stack"
-date:   2016-06-25
-categories: software nodejs javascript html5
+title:  Platform Stack
+tags:
+- node
+- javascript
+- html5
 ---
 
 Technology Platforms

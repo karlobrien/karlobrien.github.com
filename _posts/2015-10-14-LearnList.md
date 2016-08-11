@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Learn List"
-date:   2015-10-14
-categories: software learning
+tags:
+- learning
 ---
 
 Working list of items that I need to read up on.
