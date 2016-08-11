@@ -2,7 +2,6 @@
 layout: post
 title:  Technical Links
 tags:
-- software
 - reading
 - learning
 ---

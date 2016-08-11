@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamic Data And Dublin Bikes Api"
 tags:
-- net
+- Wpf
 - rx
 - reactive
 - MaterialDesign

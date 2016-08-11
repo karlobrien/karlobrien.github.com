@@ -2,7 +2,7 @@
 layout: post
 title:  Long Running Tasks Rx Wpf
 tags:
-- net
+- Wpf
 - rx
 - reactive
 ---
