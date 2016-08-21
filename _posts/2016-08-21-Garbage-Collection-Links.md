@@ -8,7 +8,6 @@ tags:
 
 Garbage Collection Resource list.
 
-<!--more-->
 * [Everything you need to know about .NET memory](https://vimeo.com/113632451)
   * [Associated Slides](http://www.slideshare.net/benemmett/net-memory-management-ndc-london)
 * [GeeksWithBlogs](http://geekswithblogs.net/akraus1/archive/2014/03/24/155766.aspx)
