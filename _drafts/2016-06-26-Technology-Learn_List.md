@@ -25,7 +25,7 @@ This means to not block on the response
 ! means continue
 @ means concat
 
-# Number Representation
+# Number Representation (F# For Quantitive Finance)
 When we talk about integer representation without any negative numbers, that is, numbers from zero and up, we talk about unsigned integers.
 When we talk about integers, denoted as Z, we are talking specifically about machine-precision integers that are represented exactly in the computer with a sequence of bits. Also, an integer is a number that can be written without a fractional or decimal component and is denoted as Z by convention. For example, 0 is represented as 000000..., 1 is represented as ...000001, 2 is represented as ...000010, and so on. As you can see from this pattern, numbers are represented in the power of two. To represent negative numbers, the number range is divided into two halves and uses two's complement.
 int -> 32bit -> -127 - 128

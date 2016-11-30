@@ -35,3 +35,5 @@ List of Technical Books broken down by topic for reading in 2016.
 * Web
   * [High Performance Browser Networking](https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c73d0d3fc227d36ddc90e2d708f3fb8a)
   * <del>[HTML & CSS: Design and Build Websites](http://www.htmlandcssbook.com/)</del>
+* Data Analysis
+  * <del>[Python Data Analytics: Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language](https://www.amazon.com/Python-Data-Analytics-matplotlib-Programming/dp/1484209591)</del>
