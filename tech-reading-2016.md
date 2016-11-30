@@ -16,7 +16,7 @@ List of Technical Books broken down by topic for reading in 2016.
 * Database Design
   * <del>[7 Databases](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)</del>
   * <del>[Oracle 12c Sql](http://www.amazon.com/Oracle-Database-12c-Jason-Price/dp/0071799354)</del>
-  * [Design Data-Intensive Applications](http://dataintensive.net)
+  * <del>[Design Data-Intensive Applications](http://dataintensive.net)</del>
 * Algorithms
   * <del>[Groking Algorithms](https://www.manning.com/books/grokking-algorithms)</del>
   * [Essential Algorithms](https://www.amazon.co.uk/Essential-Algorithms-Practical-Approach-Computer/dp/1118612108/ref=sr_1_1?ie=UTF8&qid=1469597035&sr=8-1&keywords=essential+algorithms) - **Currently Reading**
