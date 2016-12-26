@@ -6,12 +6,12 @@ tags:
 - Port Adapter Architecture
 ---
 
-# Useful Monad Explanations
+## Useful Monad Explanations
 * [Understanding Monads](https://fsharpn00b.blogspot.ie/2016/12/understanding-monads-in-f.html)
 * [Sidburn Series](https://sidburn.github.io/Series)
 * [Purity in an Impure Language](http://blog.leifbattermann.de/2016/12/25/purity-in-an-impure-language-free-monad-tic-tac-toe-cqrs-event-souring/)
 
-# Useful Design Links
+## Useful Design Links
 * [Functional is ports and adapters](http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/)
 * [Layers and Ports/ Adapters](http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
 * [Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
