@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Using F# for Yahoo finance data in a console application
+title:  "Using F# for Yahoo finance data in a console application"
 tags:
 - F#
 - Paket
@@ -8,7 +8,7 @@ tags:
 
 Using Code, Paket and FAKE.
 
-<!-- more -->
+<!--more-->
 
 Code is available @ [Yahoo Finance Console](https://github.com/karlobrien/YahooFinanceConsole)
 
