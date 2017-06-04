@@ -6,13 +6,34 @@ tags:
 ---
 
 Instead of learning a technology, you need to look at an area and learn everything about it.
+Identify what are the best books and papers on each topic
 
-Browsers:
+# Browsers:
 * How do they work
 * What makes them efficient
 * How do they handle the data
+* Why are they built the way they are
 
-Distributed Systems
+# Distributed Systems
 * Common patterns
-* What do they good systems do
+* What do the good systems do
+* What are the best books and papers on the topic
+
+# Database
+* How do they work
+* What are the advantages of each type
+* Be able to describe different types.
+* Redis, Key/ Value.
+
+# Pub/ Sub Technologies
+
+Maybe look at topics
+# Desktop Applications
+What is the difference in architecture? 
+What is the best way to split the client and backend
+* WPF/ Winforms
+* Electron
+* Others?
+
+
 
