@@ -33,7 +33,13 @@ What is the difference in architecture?
 What is the best way to split the client and backend
 * WPF/ Winforms
 * Electron
+* React Desktop
 * Others?
 
-
+# Open Source Libraries
+Pick some well known libraries and see how they work
+* Automapper
+* Kestrel Asp
+* Dapper
+* Github Desktop
 
