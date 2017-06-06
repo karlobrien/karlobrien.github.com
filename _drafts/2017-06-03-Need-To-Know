@@ -14,6 +14,14 @@ Identify what are the best books and papers on each topic
 * How do they handle the data
 * Why are they built the way they are
 
+# Web Servers
+* How do they work
+* Compare different types
+* Asp.net Core
+* Node.js
+* Python
+* Ruby On Rails
+
 # Distributed Systems
 * Common patterns
 * What do the good systems do
@@ -42,4 +50,6 @@ Pick some well known libraries and see how they work
 * Kestrel Asp
 * Dapper
 * Github Desktop
+* Forge - F#
+* Freya
 
