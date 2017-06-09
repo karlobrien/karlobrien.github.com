@@ -50,3 +50,8 @@ Technology Platforms
  * Search for an event and find relevant articles from good authors.
  * Build a fictional real time stock data ticker.
  * Build a test harness for publishing data to the client.
+
+# Web Server
+ * Web Server to run on raspberry pi and serve common web requests
+ * Simple Web Server on different platforms.
+ * Send command line requests to this server and get result
