@@ -26,6 +26,7 @@ Identify what are the best books and papers on each topic
 * Common patterns
 * What do the good systems do
 * What are the best books and papers on the topic
+* [Distributed Systems](https://www.infoq.com/presentations/distributed-systems-theory?utm_source=twitter&utm_medium=link&utm_campaign=qcon#mainLogin)
 
 # Database
 * How do they work
@@ -35,9 +36,13 @@ Identify what are the best books and papers on each topic
 
 # Pub/ Sub Technologies
 
+# How do the OS internals work
+* How does memory work
+* Bits, Bytes
+
 Maybe look at topics
 # Desktop Applications
-What is the difference in architecture? 
+What is the difference in architecture?
 What is the best way to split the client and backend
 * WPF/ Winforms
 * Electron
