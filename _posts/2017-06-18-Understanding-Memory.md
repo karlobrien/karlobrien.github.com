@@ -22,9 +22,10 @@ Atomic operations make the computer see the above as single operations also.
 * [Crash Course In Memory Management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
 
 
-
 ## JIT Compilers
 Overview of JIT here
+
+Look at how to optimise code for JIT
 
 * [Crash Course in JIT Compilers](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 
@@ -34,4 +35,5 @@ Overview here
 [Assembly](https://hacks.mozilla.org/2017/02/a-crash-course-in-assembly/)
 
 ## Web Assembly
-* [Web Assembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+
+[Web Assembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
