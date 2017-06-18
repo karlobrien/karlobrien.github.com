@@ -13,13 +13,6 @@ My masters thesis dealt with using Hadoop and Weka to evaluate various machine l
 
 Full Professional details are available @ [LinkedIn](https://www.linkedin.com/in/karl-o-brien-048aa56)
 
-I am due to start an M.Sc. in Data Analytics in [DIT Dublin](http://www.dit.ie/studyatdit/postgraduate/taughtprogrammes/allcourses/computingdataanalyticsmscdt228aftdt228bpt.html).
-
-My main focus items for the above course are the following modules:
-
-* Machine learning
-* Probability & Statistical Inference
-
 ### Code Samples
 
 All code is hosted @ [Github](https://github.com/karlobrien).
