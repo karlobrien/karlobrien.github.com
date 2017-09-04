@@ -17,23 +17,29 @@ In source code, incrementing a variable looks like a single operation but at cpu
 
 Atomic operations make the computer see the above as single operations also.
 
+### Data-Oriented Design
+
+[Why You Might Be Shooting Yourself in The Foot With OOP] (http://gamesfromwithin.com/data-oriented-design)
+[Data Locality] (http://gameprogrammingpatterns.com/data-locality.html)
+[Pitfalls of OOP] (http://gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf)
+
 ### Three Common problems in memory
 
 * [Crash Course In Memory Management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
 
 
-## JIT Compilers
+### JIT Compilers
 Overview of JIT here
 
 Look at how to optimise code for JIT
 
 * [Crash Course in JIT Compilers](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 
-## Assembly
+### Assembly
 Overview here
 
 [Assembly](https://hacks.mozilla.org/2017/02/a-crash-course-in-assembly/)
 
-## Web Assembly
+### Web Assembly
 
 [Web Assembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
