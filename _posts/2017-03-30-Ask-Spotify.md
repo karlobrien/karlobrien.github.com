@@ -8,6 +8,4 @@ tags:
 
 Using Code, Paket and FAKE.
 
-<!--more-->
-
 Code is available @ [Ask Spotify](https://github.com/karlobrien/SpotifyCmdLine)

@@ -8,8 +8,6 @@ tags:
 
 Collection of useful links explaining monads and also building modular architecture.
 
-<!--more-->
-
 ## Useful Monad Explanations
 * [Understanding Monads](https://fsharpn00b.blogspot.ie/2016/12/understanding-monads-in-f.html)
 * [Sidburn Series](https://sidburn.github.io/Series)
