@@ -19,9 +19,9 @@ Atomic operations make the computer see the above as single operations also.
 
 ### Data-Oriented Design
 
-[Why You Might Be Shooting Yourself in The Foot With OOP] (http://gamesfromwithin.com/data-oriented-design)
-[Data Locality] (http://gameprogrammingpatterns.com/data-locality.html)
-[Pitfalls of OOP] (http://gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf)
+[Why You Might Be Shooting Yourself in The Foot With OOP](http://gamesfromwithin.com/data-oriented-design)
+[Data Locality](http://gameprogrammingpatterns.com/data-locality.html)
+[Pitfalls of OOP](http://gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf)
 
 ### Three Common problems in memory
 
