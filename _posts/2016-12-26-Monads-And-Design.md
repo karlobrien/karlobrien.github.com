@@ -14,7 +14,7 @@ Collection of useful links explaining monads and also building modular architect
 * [Understanding Monads](https://fsharpn00b.blogspot.ie/2016/12/understanding-monads-in-f.html)
 * [Sidburn Series](https://sidburn.github.io/Series)
 * [Purity in an Impure Language](http://blog.leifbattermann.de/2016/12/25/purity-in-an-impure-language-free-monad-tic-tac-toe-cqrs-event-souring/)
-* [Easy Monads] (http://degoes.net/articles/easy-monads)
+* [Easy Monads](http://degoes.net/articles/easy-monads)
 
 ## Useful Design Links
 * [Functional is ports and adapters](http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/)
